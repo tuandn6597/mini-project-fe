@@ -1,5 +1,3 @@
-
-
 ## Installation
 
 ```bash
@@ -10,3 +8,6 @@ npm i
 ```bash
 npm run start
 ```
+
+
+## then open http://localhost:3000/
